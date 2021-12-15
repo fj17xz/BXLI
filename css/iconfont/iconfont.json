@@ -1,0 +1,16 @@
+{
+  "id": "2699503",
+  "name": "bxli",
+  "font_family": "iconfont",
+  "css_prefix_text": "icon-",
+  "description": "",
+  "glyphs": [
+    {
+      "icon_id": "1025786",
+      "name": "icon_搜索",
+      "font_class": "iconsousuo",
+      "unicode": "e611",
+      "unicode_decimal": 58897
+    }
+  ]
+}
